@@ -1,0 +1,17 @@
+{
+  "name": "jenkisnv2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mocha": "^9.2.2",
+    "supertest": "^6.3.4"
+  },
+  "description": ""
+}
